@@ -1,2 +1,3 @@
-# Firebase
-Exploring Auth and performing CRUD by using firebase in a react application
+# React Firebase App
+
+This project is a React application that showcases email authentication, Google authentication, and CRUD operations using Firebase.
