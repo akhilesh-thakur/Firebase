@@ -9,7 +9,7 @@
 
 .login-container {
     margin-top: 40px;
-    width: 30vw;
+    min-width: 30vw;
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 5px;
@@ -48,5 +48,9 @@
   
   button:hover {
     background-color: #0056b3;
+  }
+
+  .margin-top{
+    margin-top: 8px;
   }
   

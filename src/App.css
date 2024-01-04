@@ -4,4 +4,15 @@
     background-color: #007bff;
     color: white;
     padding: 20px;
+    justify-content: space-evenly;
+}
+
+.heading-flex{
+    display: flex;
+}
+
+.btn{
+    padding: 3px;
+    border: 1px solid white;
+    border-radius: 7px;
 }
